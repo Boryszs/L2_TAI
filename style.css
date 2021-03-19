@@ -13,3 +13,9 @@ label{
 	width: 100px;
 	height: auto;
 }
+
+.footer-style {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
